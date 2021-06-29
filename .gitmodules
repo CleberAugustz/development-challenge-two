@@ -1,0 +1,6 @@
+[submodule "api-medcloud"]
+	path = api-medcloud
+	url = https://github.com/CleberAugustz/api-medcloud
+[submodule "web-medcloud"]
+	path = web-medcloud
+	url = https://github.com/CleberAugustz/web-medcloud.git
